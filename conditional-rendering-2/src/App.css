@@ -1,0 +1,19 @@
+.stu {
+  border: 1px solid brown;
+  width: 250px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  padding: 25px;
+  margin: 25px;
+  box-shadow: 0 5px 2px brown;
+  text-align: center;
+}
+
+.btn {
+  font-size: 25px;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  height: 40px;
+  width: 200px;
+  text-align: center;
+  margin-left: 25px;
+}
