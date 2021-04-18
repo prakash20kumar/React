@@ -1,0 +1,12 @@
+.stu
+{
+    width: 250px;
+    border:solid 1px brown;
+    box-shadow: 0 5px 2px brown;
+    text-align: center;
+    padding:25px;
+    margin:25px;
+    display:inline-block;
+    font-size: 25px;
+    font-family: treuchet ms;
+}
